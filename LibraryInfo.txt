@@ -3,5 +3,5 @@ Id:24-58591-2
 Department:BSc CSE
 Books Record: 
              1.Master Your Emotions
-             2.The Forty Rules of Love
+             2.The Forty Rules of 
              3.Dont Believe Everything
